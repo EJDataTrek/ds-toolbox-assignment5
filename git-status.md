@@ -1,0 +1,1 @@
+#The `git status` command is a tool in Git that provides information about the current state of the repository, like: not committeded staged files, modified and ntracked files
